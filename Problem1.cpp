@@ -21,5 +21,5 @@ int main() {
 
     cout << sum;
 
-    return 1;
+    return 0;
 }
