@@ -27,5 +27,7 @@ int main() {
     }
 
     cout << EvenSum;
+
+    return 0;
     
 }
